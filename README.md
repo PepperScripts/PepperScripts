@@ -8,6 +8,7 @@ FiveM scripts for **ESX Legacy, QBCore and Qbox**: jobs, activities and tools fo
 
 | Script | What it does | Framework |
 |---|---|---|
+| [pepper_chat](https://github.com/PepperScripts/pepper_chat) | Chat with tabs (All, OOC, Staff) and staff tools: mute, clear, slow mode, announcements | ESX, QBCore, Qbox, standalone |
 | [pepper_notify](https://github.com/PepperScripts/pepper_notify) | Notifications with exports for client and server | Standalone |
 | [pepper_rpcommands](https://github.com/PepperScripts/pepper_rpcommands) | `/me`, `/do`, `/try` and `/roll` with text above the head | Standalone |
 | [pepper_loadingscreen](https://github.com/PepperScripts/pepper_loadingscreen) | Loading screen with intro and loop video and rotating tips | Standalone |
